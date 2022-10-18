@@ -1,0 +1,67 @@
+Nr. este: 4321
+Suma cifrelor nr. 4321 este 10
+Ultima cifra a nr. 4321 este 1
+Exceptie: Indexul 5 este prea mare!
+
+Nr. este: -100
+Exceptie: Numarul -100 este negativ!
+
+Nr. este: 0
+Suma cifrelor nr. 0 este 0
+Ultima cifra a nr. 0 este 0
+Exceptie: Indexul 5 este in afara limitelor!
+
+Nr. este: 9
+Suma cifrelor nr. 9 este 9
+Ultima cifra a nr. 9 este 9
+Exceptie: Indexul 5 este in afara limitelor!
+
+Nr. este: 10001
+Suma cifrelor nr. 10001 este 2
+Ultima cifra a nr. 10001 este 1
+Exceptie: Indexul 5 este prea mare!
+
+Nr. este: 987654321
+Suma cifrelor nr. 987654321 este 45
+Ultima cifra a nr. 987654321 este 1
+Cifra de pe pozitia 5 a nr. 987654321 este 4
+Cifra de pe pozitia 0 a nr. 987654321 este 9
+Cifra de pe pozitia 1 a nr. 987654321 este 8
+Cifra de pe pozitia 2 a nr. 987654321 este 7
+Cifra de pe pozitia 3 a nr. 987654321 este 6
+Cifra de pe pozitia 4 a nr. 987654321 este 5
+Cifra de pe pozitia 5 a nr. 987654321 este 4
+Cifra de pe pozitia 6 a nr. 987654321 este 3
+Cifra de pe pozitia 7 a nr. 987654321 este 2
+Cifra de pe pozitia 8 a nr. 987654321 este 1
+
+Nr. este: 1234
+Suma cifrelor nr. 1234 este 10
+Ultima cifra a nr. 1234 este 4
+Exceptie: Indexul 5 este prea mare!
+
+Nr. este: 7777
+Suma cifrelor nr. 7777 este 28
+Ultima cifra a nr. 7777 este 7
+Exceptie: Indexul 5 este prea mare!
+
+Nr. este: 2147483647
+Suma cifrelor nr. 2147483647 este 46
+Ultima cifra a nr. 2147483647 este 7
+Cifra de pe pozitia 5 a nr. 2147483647 este 8
+Cifra de pe pozitia 0 a nr. 2147483647 este 2
+Cifra de pe pozitia 1 a nr. 2147483647 este 1
+Cifra de pe pozitia 2 a nr. 2147483647 este 4
+Cifra de pe pozitia 3 a nr. 2147483647 este 7
+Cifra de pe pozitia 4 a nr. 2147483647 este 4
+Cifra de pe pozitia 5 a nr. 2147483647 este 8
+Cifra de pe pozitia 6 a nr. 2147483647 este 3
+Cifra de pe pozitia 7 a nr. 2147483647 este 6
+Cifra de pe pozitia 8 a nr. 2147483647 este 4
+Cifra de pe pozitia 9 a nr. 2147483647 este 7
+
+Nr. este: -9875
+Exceptie: Numarul -9875 este negativ!
+
+Nr. este: -2147483639
+Exceptie: Numarul -2147483639 este negativ!
